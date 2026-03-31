@@ -1,0 +1,21 @@
+{
+  "adx_period": 14,
+  "atr_period": 14,
+  "ema_fast": 13,
+  "ema_slow": 89,
+  "adx_enter": 24.0,
+  "adx_exit": 18.0,
+  "atr_pct_floor": 0.0012,
+  "slope_floor": 0.0,
+  "hold_bars": 4,
+  "atr_stop_k": 2.0,
+  "breakout_lookback": 36,
+  "breakout_buffer": 0.0,
+  "selected_interval": "2h",
+  "target_years": [
+    2023,
+    2024,
+    2025
+  ],
+  "search_score": -1.3868910097547047
+}
